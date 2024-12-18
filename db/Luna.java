@@ -93,7 +93,7 @@ class Luna {
                 return;
             }
 
-            System.out.println("How many months do you want predictions for?");
+            System.out.print("How many months do you want predictions for?");
             int months = scanner.nextInt();
             scanner.nextLine(); // Consume newline
 
