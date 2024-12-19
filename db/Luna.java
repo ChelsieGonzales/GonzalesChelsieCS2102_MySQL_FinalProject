@@ -7,7 +7,7 @@ class Luna {
 
     static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/lunaperiodtracker";
     static final String USER = "root";
-    static final String PASS = "Treasure23!!!";
+    static final String PASS = "password";
 
     public static void main(String[] args) {
         DatabaseManager dbManager;
